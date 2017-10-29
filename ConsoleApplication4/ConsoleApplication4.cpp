@@ -2,10 +2,16 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
+#include <string>
 
+using namespace std ;
 
 int main()
 {
+    
+    cout << "helo world"<< end ;
+    system ("pause ");
     return 0;
 }
 
